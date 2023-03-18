@@ -1,0 +1,1 @@
+# argocd-flask-app-config
