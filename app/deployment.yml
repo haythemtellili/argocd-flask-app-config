@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: flask
-          image: haythemtellili/simple_flask:v2
+          image: haythemtellili/simple_flask:3
           ports:
             - containerPort: 5000
